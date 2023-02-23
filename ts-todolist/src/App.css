@@ -13,9 +13,9 @@
 .heading {
   text-transform: uppercase;
   font-size: 4rem;
-  font-weight: 700;
+  font-weight: 800;
   margin: 2rem 0;
-  color: bisque;
+  color: rgb(177, 54, 199);
   z-index: 1;
   text-align: center;
 }
